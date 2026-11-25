@@ -1,0 +1,11 @@
+{
+ "schema": "tailout-daily",
+ "v": 1,
+ "generated": "2026-11-27T20:04:20Z",
+ "scheduled": "2026-11-27T11:00:00Z",
+ "pins": 21568,
+ "computed": 21568,
+ "bytes": 207153,
+ "json_bytes": 1098929,
+ "sha256": "ece61cbb7433f70ea48bc9c4ccb2f2283811e5c9ab72d8760f72267f08d3e20f"
+}
